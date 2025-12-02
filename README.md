@@ -52,3 +52,6 @@
 
 [네이버](http://www.naver.com, "네이버 화면으로 이동합니다.")
 
+# 이미지 출력 TEST
+
+![프로필이미지](./majestic-bald-eagle-american-adult-260nw-2027687306-다음에서-변환-webp.jpeg)
